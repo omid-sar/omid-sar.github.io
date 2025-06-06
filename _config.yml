@@ -46,9 +46,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "omidsardari@example.com"
+  email: "mr.omid.sardari@gmail.com"
   rss: true # remove this line if you don't want to show an RSS link at the bottom
-  github: omidsardari
+  github: omid-sar
+  linkedin: omidsar
+  twitter: omidsard
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
@@ -93,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "omidsardari.github.io"
+url-pretty: "omid-sar.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
