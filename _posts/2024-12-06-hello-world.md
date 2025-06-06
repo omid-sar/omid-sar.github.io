@@ -4,7 +4,7 @@ title: Hello World - My First Blog Post
 subtitle: Testing the blog setup and exploring features
 tags: [introduction, blogging, tech]
 comments: true
-author: Omid Sardari
+author: Omid Sar
 ---
 
 Welcome to my new blog! This is my first post to test out the Beautiful Jekyll setup and see how everything looks.
