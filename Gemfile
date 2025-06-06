@@ -2,9 +2,11 @@
 
 source "https://rubygems.org"
 
-# GitHub Pages gem (includes Jekyll and approved plugins)
+# GitHub Pages compatibility
 gem "github-pages", group: :jekyll_plugins
 
-# For local development
-gem "webrick", "~> 1.8"
+# For local development only
+group :development do
+  gem "webrick", "~> 1.8"
+end
 
