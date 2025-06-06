@@ -1,21 +1,13 @@
-
 ---
-
 layout: post
-
 title: "VIbe Coding Tips: Writing Code That Flows"
-
 subtitle: "Practical tips for writing clean, maintainable, and enjoyable code"
-
-date: 2024-12-07 18:00:00
-
+date: 2025-06-06 18:00:00
 tags: [coding-tips, best-practices, clean-code, python, productivity]
-
 comments: true
-
 author: Omid Sar
-
 ---
+
 # Vibe Coding Tips and Tricks
 
 ## Introduction
