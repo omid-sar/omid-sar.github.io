@@ -90,7 +90,7 @@ git push origin main
 
 ```yaml
 # Basic Information
-title: Omid's Blog
+title: Zero-Shot Thoughts
 author: Omid Sar
 description: Your blog description
 
