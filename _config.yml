@@ -96,6 +96,8 @@ share-links-active:
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "omid-sar.github.io"
+url: "https://omid-sar.github.io"
+baseurl: ""
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -152,12 +154,12 @@ footer-hover-col: "#0085A1"
 #mobile-theme-col: "#0085A1"
 
 # For any extra visual customization, you can include additional CSS files in every page on your site. List any custom CSS files here
-site-css:
-  - "/assets/css/theme.css"
+#site-css:
+#  - "/assets/css/theme.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-site-js:
-  - "/assets/js/theme-toggle.js"
+#site-js:
+#  - "/assets/js/theme-toggle.js"
 
 #################################
 # --- Web Analytics Section --- #
@@ -286,8 +288,15 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - BLOG_GUIDE.md
+  - OBSIDIAN_TO_BLOG.md
+  - FIRST_POST_TEMPLATE.md
+
+# Use Beautiful Jekyll theme
+remote_theme: daattali/beautiful-jekyll
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
 # Beautiful Jekyll / Dean Attali
