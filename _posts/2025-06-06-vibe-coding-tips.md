@@ -5,7 +5,7 @@ subtitle: "Practical tips for writing clean, maintainable, and enjoyable code"
 date: 2025-06-06 18:00:00
 tags: [coding-tips, best-practices, clean-code, python, productivity]
 comments: true
-author: Omid Sar
+author: Omi S
 ---
 
 # Vibe Coding Tips and Tricks
