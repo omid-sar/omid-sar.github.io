@@ -7,9 +7,8 @@ author: Omi S
 comments: true
 ---
 
-## **The Personal Data Manifesto
+## **The Personal Data Manifesto**
 
-*By Omi S, Privacy & AI Safety Advocate*
 
 ### **Introduction: Why I Fight for Our Digital Soul**
 
