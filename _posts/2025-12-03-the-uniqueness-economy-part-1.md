@@ -7,9 +7,9 @@ author: Omi S
 comments: true
 ---
 
-## **The Uniqueness Economy (Part 1): How AI Learns What Makes You You***
+## **The Uniqueness Economy (Part 1): How AI Learns What Makes You You**
 
-_By Omi S, ML researcher, developer–engineer, founder, and AI safety advocate_  
+_By Omi S, ML researcher,founder, developer–engineer, and AI safety advocate_  
 
 
 > This is Part 1 of a three-part series on the Uniqueness Economy and how AI systems are learning and leveraging what makes each of us distinct.
