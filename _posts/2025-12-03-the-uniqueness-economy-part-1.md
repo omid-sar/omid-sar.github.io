@@ -9,7 +9,7 @@ comments: true
 
 ## **The Uniqueness Economy (Part 1): How AI Learns What Makes You You**
 
-_By Omi S, ML researcher,founder, developer–engineer, and AI safety advocate_  
+_By Omi S, ML researcher, founder, developer–engineer, and AI safety advocate_  
 
 
 > This is Part 1 of a three-part series on the Uniqueness Economy and how AI systems are learning and leveraging what makes each of us distinct.
@@ -39,7 +39,6 @@ On the surface, that sounds like “relevant information delivery.” But now im
 
 ### **Cambridge Analytica Was Just the Preview**
 
-![[unnamed (13).jpg]]
 
 ![Predictive Likes](/assets/img/predective-likes.jpg)
 
