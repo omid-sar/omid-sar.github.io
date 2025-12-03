@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Uniqueness Economy (Part 1): How AI Learns What Makes You You
-subtitle: How AI Learns What Makes You You***
+title: The Uniqueness Economy (Part 1) How AI Learns What Makes You You
+subtitle: How AI Learns What Makes You You
 tags: [privacy, AI, data-protection, digital-rights, technology, AI-manipulation]
 author: Omi S
 comments: true
