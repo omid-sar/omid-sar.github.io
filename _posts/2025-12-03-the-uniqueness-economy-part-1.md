@@ -39,6 +39,8 @@ On the surface, that sounds like “relevant information delivery.” But now im
 
 ![[unnamed (13).jpg]]
 
+![Predictive Likes](/assets/img/predective-likes.jpg)
+
 In 2013, researchers at Cambridge University [link](https://www.pnas.org/doi/10.1073/pnas.1218772110) showed how much can be inferred from seemingly trivial data: they could predict intimate traits from nothing more than Facebook “likes,” not posts or photos, just the icons we tap without thinking.
 
 The results were startling:
@@ -61,7 +63,8 @@ We are rapidly moving from “we can infer your traits from sparse signals” to
 
 ### **The Uniqueness Valuation Problem**
 
-![[unnamed (11).jpg]]
+
+![Uniqueness Econom](/assets/img/uniqueness.jpg)
 
 Research [link](https://workofthefuture-taskforce.mit.edu/wp-content/uploads/2021/01/2020-Final-Report4.pdf?utm_source=chatgpt.com) from MIT’s Digital Economy Lab suggests that as automation advances, human economic value increasingly comes from **unique perspectives, creativity, and judgment**—the parts that are hardest to automate.
 
