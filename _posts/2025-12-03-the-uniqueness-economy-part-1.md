@@ -13,6 +13,8 @@ _By Omi S, ML researcher,founder, developer–engineer, and AI safety advocate_
 
 
 > This is Part 1 of a three-part series on the Uniqueness Economy and how AI systems are learning and leveraging what makes each of us distinct.
+
+
 ### Introduction: The View from the Inside
 
 I have spent the last several years working with machine learning systems—as a researcher, founder, and AI safety advocate. Most of my work is practical: building and debugging models, shipping products, and trying to make tools that are genuinely useful.
