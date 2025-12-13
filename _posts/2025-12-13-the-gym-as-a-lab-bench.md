@@ -25,26 +25,41 @@ This is what “AI in daily life” is turning into for me: not one assistant, b
 
 We used to talk about AI as if it lives in big announcements. I keep seeing it show up in the small UX layer between intention and action—the part where you either do the thing, or you don’t. The future isn’t just better answers. It’s better interfaces for your routines.
 
-
-
 <hr>
 
 <h3>Workout icons</h3>
 
-<div style="display:grid;grid-template-columns:repeat(4,1fr);gap:12px;align-items:start;">
-  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-1.png' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-1.png' | relative_url }}" alt="Workout day 1" style="width:100%;max-width:180px;height:auto;border-radius:10px;">
+<div style="display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;align-items:start;">
+  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-1.png' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-1.png' | relative_url }}"
+         alt="Workout day 1"
+         style="width:100%;height:auto;border-radius:10px;">
   </a>
 
-  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-2.png' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-2.png' | relative_url }}" alt="Workout day 2" style="width:100%;max-width:180px;height:auto;border-radius:10px;">
+  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-2.png' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-2.png' | relative_url }}"
+         alt="Workout day 2"
+         style="width:100%;height:auto;border-radius:10px;">
   </a>
 
-  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-3.png' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-3.png' | relative_url }}" alt="Workout day 3" style="width:100%;max-width:180px;height:auto;border-radius:10px;">
+  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-3.png' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-3.png' | relative_url }}"
+         alt="Workout day 3"
+         style="width:100%;height:auto;border-radius:10px;">
   </a>
 
-  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-4.png' | relative_url }}" target="_blank" rel="noopener">
-    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-4.png' | relative_url }}" alt="Workout day 4" style="width:100%;max-width:180px;height:auto;border-radius:10px;">
+  <a href="{{ '/assets/img/workout/gemini-nano-generated-workout-day-4.png' | relative_url }}" target="_blank" rel="noopener noreferrer">
+    <img src="{{ '/assets/img/workout/gemini-nano-generated-workout-day-4.png' | relative_url }}"
+         alt="Workout day 4"
+         style="width:100%;height:auto;border-radius:10px;">
   </a>
 </div>
+
+<style>
+  @media (max-width: 900px) {
+    .post-content div[style*="grid-template-columns:repeat(4"] { grid-template-columns: repeat(2, minmax(0, 1fr)) !important; }
+  }
+  @media (max-width: 520px) {
+    .post-content div[style*="grid-template-columns:repeat(4"] { grid-template-columns: 1fr !important; }
+  }
+</style>
