@@ -1,9 +1,9 @@
 ---
 layout: post
-title: The Gym as a Lab Bench: Iterating on Habits with LLMs
-subtitle: A small, repeatable workout experiment — and the AI toolchain around it: critique loops, a memory layer, and a visual interface for routine.
-tags:  [ai, workflow, llm, memory-layer, training, personal-systems]
-author: Omi S
+title: "The Gym as a Lab Bench: Iterating on Habits with LLMs"
+subtitle: "A small, repeatable workout experiment — and the AI toolchain around it: critique loops, a memory layer, and a visual interface for routine."
+tags: [ai, workflow, llm, memory-layer, training, personal-systems]
+author: "Omi S"
 comments: true
 ---
 
