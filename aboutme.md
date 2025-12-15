@@ -10,8 +10,7 @@ I live in **Ottawa, Canada**, where I work as a Senior Machine Learning Engineer
 
 ### Two Rhythms
 
-My life splits into two modes.
-
+**My life splits into two modes.**
 There's the digital one: building AI systems, architecting memory layers, staring at loss curves. I spend my days solving a specific problem—how to give AI agents persistent memory without surrendering user privacy. It's technical work, and I love it.
 
 Then there's the physical one. Winter means skiing and skating. Summer means trails and water. I'm not an extreme athlete; I just need regular contact with things that are real. In an era where content is infinite and increasingly synthetic, the physical world is the only thing that cannot be hallucinated.
