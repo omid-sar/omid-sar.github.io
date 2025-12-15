@@ -1,38 +1,33 @@
 ---
 layout: page
-title: About
-subtitle: Welcome to my blog!
+title: About Me
+subtitle: Founder, Senior ML Engineer, and AI Safety Researcher.
 ---
 
-Hi there! I'm **Omid Sardari**, and this is my personal blog where I share thoughts on technology, programming, and life.
+I'm **Omid Sardari**.
 
-## What You'll Find Here
+I live in **Ottawa, Canada**, where I work as a Senior Machine Learning Engineer and run **[Memory Bridge](https://memorybridgeai.com)**.
 
-I write about topics that fascinate me:
+### Two Rhythms
 
-- **Software Development** - Best practices, tutorials, and lessons learned
-- **Technology Trends** - My take on emerging tech and industry developments  
-- **Personal Projects** - Documenting experiments and side projects
-- **Learning Journey** - Insights from picking up new skills and technologies
+My life splits into two modes.
 
-## My Background
+There's the digital one: building AI systems, architecting memory layers, staring at loss curves. I spend my days solving a specific problem—how to give AI agents persistent memory without surrendering user privacy. It's technical work, and I love it.
 
-I'm passionate about building things that matter and sharing knowledge with the community. Whether it's a code snippet that saves someone time or a perspective that sparks new ideas, I believe in the power of sharing what we learn.
+Then there's the physical one. Winter means skiing and skating. Summer means trails and water. I'm not an extreme athlete; I just need regular contact with things that are real. In an era where content is infinite and increasingly synthetic, the physical world is the only thing that cannot be hallucinated.
 
-## Get In Touch
+I find that the best engineering thinking happens somewhere between these two modes—usually when I'm too tired to overthink.
 
-Feel free to connect with me:
+### What I'm Building
 
-- **GitHub**: [@omidsardari](https://github.com/omidsardari)
-- **Email**: Drop me a line anytime
+**[Memory Bridge](https://memorybridgeai.com)** fixes the amnesia problem in AI. Right now, every conversation with an LLM starts from zero. I'm building the infrastructure to change that—privacy-first, provider-agnostic, economically viable at scale.
 
-## About This Blog
+### What I'm Writing
 
-This blog is built with [Jekyll](https://jekyllrb.com/) using the [Beautiful Jekyll](https://beautifuljekyll.com/) theme and hosted on [GitHub Pages](https://pages.github.com/). It features:
+I'm working on a series called **The Uniqueness Economy**—exploring what happens to human value when the thing that made you special becomes a commodity. This blog is where I think out loud about the intersection of AI, work, and what it means to stay human in an algorithmic world.
 
-- Clean, minimal design
-- Syntax highlighting for code
-- Mobile-responsive layout
-- Fast loading times
+### Say Hi
 
-Thanks for stopping by! I hope you find something useful or interesting here. 🚀
+* **X (Twitter):** [@omidsard](https://twitter.com/omidsard)
+* **LinkedIn:** [linkedin.com/in/omidsardari](https://www.linkedin.com/in/omidsardari/)
+* **Email:** [mr.omid.sardari@gmail.com](mailto:mr.omid.sardari@gmail.com)
