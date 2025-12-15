@@ -51,6 +51,10 @@ social-network-links:
 #################################################################
 # These are specific keys the SEO plugin looks for to build
 # "Twitter Cards" and Open Graph tags.
+
+# Global social preview image (1200x630px for optimal display)
+image: "/assets/img/social-card.jpg"
+
 twitter:
   username: omidsard
   card: summary_large_image

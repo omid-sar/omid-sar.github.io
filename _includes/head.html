@@ -172,4 +172,32 @@
     {% endfor %}
   {% endif %}
 
+  <!-- JSON-LD Schema Markup for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Omid Sardari",
+    "jobTitle": "Senior Machine Learning Engineer",
+    "url": "https://omid-sar.github.io",
+    "image": "https://omid-sar.github.io/assets/img/social-card.jpg",
+    "sameAs": [
+      "https://www.linkedin.com/in/omidsardari/",
+      "https://twitter.com/omidsard",
+      "https://omidsar.medium.com",
+      "https://memorybridgeai.com"
+    ],
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Memory Bridge",
+      "url": "https://memorybridgeai.com"
+    },
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Tarbiat Modares University"
+    },
+    "knowsAbout": ["Machine Learning", "AI Safety", "LLMs", "MLOps", "AI Agents"]
+  }
+  </script>
+
 </head>
