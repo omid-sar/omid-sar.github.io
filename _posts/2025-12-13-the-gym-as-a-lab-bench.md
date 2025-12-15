@@ -3,9 +3,15 @@ layout: post
 title: "The Gym as a Lab Bench: Iterating on Habits with LLMs"
 subtitle: "A small, repeatable workout experiment — and the AI toolchain around it: critique loops, a memory layer, and a visual interface for routine."
 tags: [ai, workflow, llm, memory-layer, training, personal-systems]
-author: "Omi S"
+author: Omid Sardari
 comments: true
 ---
+
+
+# The Gym as a Lab Bench: Iterating on Habits with LLMs 
+
+**By Omid Sardari**
+_Senior ML Engineer, Founder of Memory Bridge, and AI Safety Researcher._
 
 ## Story
 

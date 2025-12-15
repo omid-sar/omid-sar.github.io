@@ -5,10 +5,12 @@ subtitle: "Practical tips for writing clean, maintainable, and enjoyable code"
 date: 2025-06-06 18:00:00
 tags: [coding-tips, best-practices, clean-code, python, productivity]
 comments: true
-author: Omi S
+author: Omid Sardari
 ---
 
 # Vibe Coding Tips and Tricks
+**By Omid Sardari**
+_Senior ML Engineer, Founder of Memory Bridge, and AI Safety Researcher._
 
 ## Introduction
 

@@ -1,13 +1,16 @@
 ---
 layout: post
-title: The Personal Data Manifesto
-subtitle: How AI Systems Are Learning to Architect Your Choices, Mine Your Uniqueness, and Why We Have One Chance to Stop Digital Feudalism
+title: "The Personal Data Manifesto"
+subtitle: "How AI Systems Are Learning to Architect Your Choices, Mine Your Uniqueness, and Why We Have One Chance to Stop Digital Feudalism"
 tags: [privacy, AI, data-protection, digital-rights, technology, AI-manipulation]
-author: Omi S
+author: Omid Sardari
 comments: true
 ---
 
-## **The Personal Data Manifesto**
+# **The Personal Data Manifesto**
+**By Omid Sardari**
+_Senior ML Engineer, Founder of Memory Bridge, and AI Safety Researcher._
+
 
 
 ### **Introduction: Why I Fight for Our Digital Soul**
