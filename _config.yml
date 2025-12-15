@@ -7,18 +7,13 @@
 # --- Required options --- #
 ############################
 
-# Name of website
-# Recommendation: Keep the blog name, but the Author field below is critical.
 title: Zero-Shot Thoughts
-
-# Your name to show in the footer
-# CHANGE 1: Switched to full professional name for SEO consistency
 author: Omid Sardari
 
-# CHANGE 2: Added a top-level description for Google/SEO Plugin to read
+# OPTIMIZED DESCRIPTION (Fixes the "tell my friends" issue)
 description: >-
-  Personal blog of Omid Sardari, Senior Machine Learning Engineer and Founder of Memory Bridge. 
-  Writing about AI Agents, Context Retention, and LLM Fine-tuning.
+  Personal blog of Omid Sardari, Founder of Memory Bridge and Senior ML Engineer. 
+  Writing about AI Agents, Context Retention, AI Safety, and the Uniqueness Economy.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -43,16 +38,13 @@ social-network-links:
   email: "mr.omid.sardari@gmail.com"
   rss: true
   github: omid-sar
-  linkedin: omidsar
+  linkedin: omidsardari  # FIXED: Updated from 'omidsar' to 'omidsardari'
   twitter: omidsard
 
 #################################################################
 # --- SEO & Social Data (Added for jekyll-seo-tag plugin) --- #
 #################################################################
-# These are specific keys the SEO plugin looks for to build
-# "Twitter Cards" and Open Graph tags.
 
-# Global social preview image (1200x630px for optimal display)
 image: "/assets/img/social-card.jpg"
 
 twitter:
@@ -73,39 +65,25 @@ share-links-active:
   vk: false
   reddit: false
 
-# How to display the link to your website in the footer
 url-pretty: "omid-sar.github.io"
 url: "https://omid-sar.github.io"
 baseurl: ""
-
-# Add the website title to the title of every page
 title-on-all-pages: true
-
-# Excerpt word length
 excerpt_length: 50
-
-# whether to show an excerpt
 feed_show_excerpt: true
-
-# Whether or not to show a list of tags
 feed_show_tags: true
-
-# Add a search button to the navbar
 post_search: true
-
-# Add a button in the footer to edit the current page
 edit_page_button: true
-
-# Allow sub-menu items
 navbar-var-length: false
 
 ######################################
 # --- Colours / background image --- #
 ######################################
 
+# BRAND UPDATE: Using Memory Bridge "Industrial Blue"
 page-col: "#FFFFFF"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#0845FF"  # FIXED: Changed to Memory Bridge Brand Color
 hover-col: "#0085A1"
 navbar-col: "#EAEAEA"
 navbar-text-col: "#404040"
@@ -113,9 +91,9 @@ navbar-border-col: "#DDDDDD"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#0845FF" # FIXED: Hover state match
 
-mobile-theme-col: "#0085A1"
+mobile-theme-col: "#0845FF" # FIXED: Mobile bar match
 
 #################################################################################
 # --- You don't need to touch anything below here (but you can if you want) --- #
@@ -124,7 +102,7 @@ mobile-theme-col: "#0085A1"
 timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/  # CHANGE 3: Cleaned up URL structure (removed date) for better SEO
+permalink: /:title/
 
 kramdown:
   input: GFM
@@ -162,4 +140,4 @@ plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag # CHANGE 4: Added the SEO plugin here
+  - jekyll-seo-tag
