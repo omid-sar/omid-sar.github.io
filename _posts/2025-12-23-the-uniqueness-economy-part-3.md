@@ -2,7 +2,7 @@
 layout: post
 title: The Uniqueness Economy (Part 3)
 subtitle: A Framework for Defending Human Agency
-tags:[privacy, AI, data-protection, digital-rights, technology, AI-manipulation]
+tags:[privacy, ai-safety, surveillance-capitalism, human-agency, digital-rights, data-governance, dark-patterns, differential-privacy, decentralized-identity, tech-policy]
 author: Omid Sardari
 comments: true
 ---
