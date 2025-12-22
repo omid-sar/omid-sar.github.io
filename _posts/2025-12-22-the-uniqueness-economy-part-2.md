@@ -8,7 +8,7 @@ author: Omid Sardari
 comments: true
 ---
 
-## The Uniqueness Economy (Part 2): From Persuasion to Choice Architecture
+# The Uniqueness Economy (Part 2): From Persuasion to Choice Architecture
 **By Omid Sardari** 
 _Senior ML Engineer, Founder of Memory Bridge, and AI Safety Researcher._
 

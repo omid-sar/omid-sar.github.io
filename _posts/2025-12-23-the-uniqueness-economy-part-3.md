@@ -2,12 +2,12 @@
 layout: post
 title: The Uniqueness Economy (Part 3)
 subtitle: A Framework for Defending Human Agency
-tags:[privacy, ai-safety, surveillance-capitalism, human-agency, digital-rights, data-governance, dark-patterns, differential-privacy, decentralized-identity, tech-policy]
+tags: [privacy, ai-safety, surveillance-capitalism, human-agency, digital-rights, data-governance, dark-patterns, differential-privacy, decentralized-identity, tech-policy]
 author: Omid Sardari
 comments: true
 ---
 
-## The Uniqueness Economy (Part 3): A Framework for Defending Human Agency
+# The Uniqueness Economy (Part 3): A Framework for Defending Human Agency
 **By Omid Sardari**
 _Senior ML Engineer, Founder of Memory Bridge, and AI Safety Researcher._
 
