@@ -12,6 +12,7 @@ comments: true
 _Senior ML Engineer, Founder of Memory Bridge, and AI Safety Researcher._
 
 > **Note:** This is Part 3 of the Uniqueness Economy series. After outlining the risks and influence patterns in [Parts 1](https://omid-sar.github.io/the-uniqueness-economy-part-1/) and [Part 2](https://omid-sar.github.io/the-uniqueness-economy-part-2/), we’ll now focus on concrete technical and political levers for defending human agency.
+
 ---
 
 If you build, deploy, or invest in AI systems, you’re not a passive observer in this story. You’re helping define the defaults.
